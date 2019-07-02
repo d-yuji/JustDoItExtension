@@ -8,6 +8,10 @@
 	"engines": {
 		"vscode": "^1.35.0"
 	},
+	"galleryBanner": {
+		"color": "#76b980",
+		"theme": "dark"
+	},
 	"categories": [
 		"Other"
 	],
@@ -36,5 +40,12 @@
 		"tslint": "^5.12.1",
 		"@types/node": "^10.12.21",
 		"@types/mocha": "^2.2.42"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/d-yuji/JustDoItExtension"
+	},
+	"bugs": {
+		"url": "https://github.com/d-yuji/JustDoItExtension"
 	}
 }

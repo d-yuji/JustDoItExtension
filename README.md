@@ -2,9 +2,9 @@
 
 This is the README for the extension "justdoitextension". 
 
-![DEMO](./readmeImages/README_1.gif)
+![DEMO](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/README_1.gif)
 
-![DEMO](./readmeImages/README_2.gif)
+![DEMO](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/README_2.gif)
 
 ## Features
 
@@ -20,7 +20,7 @@ Open New Tab with Shia LaBeouf
 Initial release of the extension
 
 ## Respect
-[![Just Do It](http://img.youtube.com/vi/ZXsQAXx_ao0/0.jpg)](http://www.youtube.com/watch?v=ZXsQAXx_ao0 "Just Do It")
+[![Just Do It](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/youtube.jpg)](http://www.youtube.com/watch?v=ZXsQAXx_ao0 "Just Do It")
 
 ## Author/Developer
 * [Github](https://github.com/d-yuji)

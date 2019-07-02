@@ -23,10 +23,10 @@ export function activate(context: vscode.ExtensionContext) {
 				vscode.ViewColumn.One, {}
 			);
 			const onDiskGifPath = vscode.Uri.file(
-				path.join(context.extensionPath, 'src/media/', 'JustDoIt.gif')
+				path.join(context.extensionPath, 'media/', 'JustDoIt.gif')
 			);
 			const onDiskCSSPath = vscode.Uri.file(
-				path.join(context.extensionPath, 'src/style/', 'style.css')
+				path.join(context.extensionPath, 'style/', 'style.css')
 			);
 			const justDoItGifsrc = onDiskGifPath.with({ scheme: 'vscode-resource' });
 			const csssrc = onDiskCSSPath.with({ scheme: 'vscode-resource' });
