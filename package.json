@@ -2,7 +2,9 @@
 	"name": "justdoitextension",
 	"displayName": "JustDoItExtension",
 	"description": "Just Do It",
-	"version": "0.0.1",
+	"version": "1.0.0",
+	"icon": "icon.png",
+	"publisher": "dyuji",
 	"engines": {
 		"vscode": "^1.35.0"
 	},
