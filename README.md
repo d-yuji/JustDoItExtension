@@ -2,7 +2,8 @@
 
 This is the README for the extension "justdoitextension". 
 
-![DEMO](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/README_1.gif)
+![DEMO](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/low.gif)
+[High Resolution](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/README_1.gif)
 
 ![DEMO](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/README_2.gif)
 
