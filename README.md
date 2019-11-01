@@ -2,9 +2,18 @@
 
 This is the README for the extension "justdoitextension". 
 
+Let Shia Labeouf motivate you with "JUST DO IT!" when coding in VSCode!
+
+Need some motivation? Install this extension to get motivated by Shia LaBeouf. After installation, you can now open JustDoIt tabs with Shia LaBeouf.
+
+Demo1
+
 ![DEMO](https://raw.githubusercontent.com/wiki/d-yuji/JustDoItExtension/images/low.gif)
 
 [High Resolution](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/README_1.gif)
+
+
+Demo2
 
 ![DEMO](https://raw.github.com/wiki/d-yuji/JustDoItExtension/images/README_2.gif)
 
@@ -16,6 +25,9 @@ Open New Tab with Shia LaBeouf
 
 
 ## Release Notes
+### 1.0.1 (2019/10)
+
+Fix README
 
 ### 1.0.0 (2019/07)
 
